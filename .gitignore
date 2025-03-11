@@ -1,6 +1,11 @@
 # Me
 *.hdr
 *.blend*
+*.png*
+*.jpg*
+*.gltf*
+*.glb*
+*.zip*
 
 
 # Created by https://www.toptal.com/developers/gitignore/api/node,react
